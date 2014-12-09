@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"github.com/duoping/controllers"
+	"github.com/newlysoft/duoping/controllers"
 	"github.com/astaxie/beego"
 )
 
