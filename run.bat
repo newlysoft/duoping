@@ -1,1 +1,0 @@
-bee run ojsite -main=*.go
