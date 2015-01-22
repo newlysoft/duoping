@@ -13,3 +13,7 @@ func (c *AdminController) Get() {
 	c.Data["Email"] = "astaxie@gmail.com"
 	c.TplNames = "index.tpl"
 }
+func (this *AdminController) Login() {
+
+	this.TplNames = "admin/login.html"
+}
